@@ -17,6 +17,14 @@
 ## But it's related to it
 ![nice](http://widgetsandshit.com/teddziuba/images/github-branch.png)
 
+## Process
+ - Create branch
+ - Make changes
+ - Push the branch to the server
+ - Create the pull request
+ - Check if the branch is updated before merge the PR
+ - Delete branch
+
 ## Commit best practices
 - Make clean, single-purpose commits
 - Write meaningful commit messages
