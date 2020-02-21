@@ -17,6 +17,13 @@
 ## But it's related to it
 ![nice](http://widgetsandshit.com/teddziuba/images/github-branch.png)
 
+## Commit best practices
+- Make clean, single-purpose commits
+- Write meaningful commit messages
+- Commit early, commit often
+- Don’t alter published history
+- Don’t commit generated files
+
 ## Format git message
 ```
 <type>(<scope>): <subject>
@@ -76,3 +83,4 @@
 - [5 git best practices](https://deepsource.io/blog/git-best-practices/)
 - [git commit msg](http://karma-runner.github.io/0.10/dev/git-commit-msg.html)
 - [git reflog](https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog)
+- 
