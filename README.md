@@ -83,4 +83,4 @@
 - [5 git best practices](https://deepsource.io/blog/git-best-practices/)
 - [git commit msg](http://karma-runner.github.io/0.10/dev/git-commit-msg.html)
 - [git reflog](https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog)
-- 
+
