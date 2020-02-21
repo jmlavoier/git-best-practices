@@ -1,5 +1,5 @@
 # git-best-practices
-Workshop about git best practices
+![fancy](fancy.png)
 
 
 ## What is this about?
