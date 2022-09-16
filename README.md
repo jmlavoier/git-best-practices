@@ -1,6 +1,8 @@
 # git-best-practices
 ![fancy](fancy.png)
 
+### -> add a new one commit
+
 ### -> add more one commit
 ### -> add another commit
 
